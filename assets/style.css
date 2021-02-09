@@ -72,14 +72,15 @@ div {
     height:600px
 }
 .display-container {
-    position: relative;
+    position: relative;}
     /* .wide {
     letter-spacing: 4px;
 } */
-    max-width: 1500px;}
+    .max-width {
+        width :1500px;}
 
 .content {
-    max-width: 980px;
+    /* max-width: 980px; */
 }
 
 .w3-btn, .w3-button {
