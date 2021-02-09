@@ -1,0 +1,191 @@
+body{
+    margin:auto;
+}
+
+.white {
+    color: #000!important;
+    background-color: #cbcdd1!important;
+}
+
+.padding{
+    padding: 8px 16px!important;
+}
+
+.card {
+    box-shadow: 0 2px 5px 0 rgb(233 30 99 / 48%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.bar {
+    width: auto;
+    overflow: hidden;
+    font-family: Lucida Console;
+}
+.wide {
+    letter-spacing: 4px;
+}
+
+.bar .bar-item {
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    border: none;
+    display: block;
+    outline: 0;
+}
+
+.right {
+    float: right!important;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.margin-top {
+    margin-top: 16px!important;
+}
+.center {
+    text-align: center!important;
+}
+
+.display-middle {
+    position: absolute;
+  top: 40%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+.black, .hover-black:hover {
+    color: #fff!important;
+    background-color: #865351!important;
+}
+
+.opacity-min {
+    opacity: 0.90;
+}
+
+.image {
+    width: 100% ;
+    height:600px
+}
+.display-container {
+    position: relative;}
+    /* .wide {
+    letter-spacing: 4px;
+} */
+    .max-width: 1500px;
+
+.content {
+    max-width: 980px;
+}
+
+.w3-btn, .w3-button {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.w3-btn, .w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+a {
+    color: inherit;
+}
+a {
+    background-color: transparent;
+}
+
+.xxlarge{
+    font-size: xxx-large; 
+    
+    font-family: Lucida Handwriting
+
+} 
+
+.fonts{
+     color: #345236 ;
+     font-family:Lucida Console ;
+     font-size:25px
+}
+
+.introduction{  background-color: #421f24;
+                margin-top: -20px;
+                padding: 10px;
+                padding-top: 30px;
+            }
+
+
+ .font2{font-size:30px;
+     font-family: Lucida Handwriting ; 
+     color: #cdd0de ;}
+
+     .flobuqet{
+        float: left;
+        margin-right: 30px;
+        width: 382px;
+        margin-left: 20px;
+        height: 257px;
+        margin-top: 39px;
+     }
+
+     .buqet{
+        height: 500px;
+        background-color: #fff;
+        padding: 20px;
+     }
+     .buqethed{
+        font-size: 30px;
+        font-family: Lucida Handwriting;
+        text-align: center;
+        color: #8a3d48f2;
+        margin-top: 25px;
+     }
+
+     .flogift{
+        float: right;
+        margin-right: 30px;
+        width: 382px;
+        margin-left: 20px;
+        height: 257px;
+        margin-top: 39px;
+     }
+
+     .gift{
+        height: 500px;
+        background-color: #d5d6dad1;
+        padding: 10px;
+     }
+
+     .gallery{
+        float: left;
+        width: 202px;
+        height: 175px;
+        margin-right: 30px;
+     }
+.galeeryhead{
+     font-size: 30px;
+    font-family: Lucida Handwriting;
+    color: #cdd0de;
+    text-align: center;}
+
+    footer{
+        line-height: 2px;
+    padding: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    }
